@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Android
-   Simple Tic Tac Toe game ✨
+   Traditional `Tic Tac Toe` game ✨
